@@ -6,7 +6,7 @@
 Our washing machine is in the garage and often we forgot that we had it started, that it already finished and we should hang our laundry for drying.
 I was thinking about a monitoring system to know when the washing machine has finished its job and had some ideas:    
 (1) measure the current supplied to the machine     
-(2) put a sensor on the power light of the machine
+(2) put a sensor on the power light of the machine    
 (3) (that's the crazy idea) measure the vibrations of the machine and when it is no longer shaking, we know it has finished    
 
 I went for the idea (3), because it is the easiest to add to the washing machine without cutting any cables or put light sensors on it. 
